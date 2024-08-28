@@ -1,6 +1,4 @@
 ﻿// Program för att registera förnamn och efternamn
-using System.Runtime.CompilerServices;
-
 Console.Clear();
 Console.InputEncoding = System.Text.Encoding.Unicode; 
 Console.OutputEncoding = System.Text.Encoding.Unicode;
@@ -20,6 +18,5 @@ if förnamn == "Oscar")
 
 if efternamn == "Brännström Iverbring")
 {
-    Console.WriteLine(Vackert E
-    fternamn!);
+    Console.WriteLine(Vackert Efternamn!);
 }
