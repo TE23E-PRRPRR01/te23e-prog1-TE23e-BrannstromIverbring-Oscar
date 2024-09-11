@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractivStory", "InteractivStory.csproj", "{560B39F9-19FE-4DAD-8208-0010BE5E2A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bilhyrning", "Bilhyrning.csproj", "{D4D615D2-003B-4A53-82D1-ED3E13865152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D615D2-003B-4A53-82D1-ED3E13865152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D615D2-003B-4A53-82D1-ED3E13865152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D615D2-003B-4A53-82D1-ED3E13865152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D615D2-003B-4A53-82D1-ED3E13865152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27A486E0-80B4-4682-91F6-CBDC2A52FBFF}
+		SolutionGuid = {05881509-8E06-4852-9073-F8BCCD3DCA74}
 	EndGlobalSection
 EndGlobal

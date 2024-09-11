@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractivStory", "InteractivStory.csproj", "{560B39F9-19FE-4DAD-8208-0010BE5E2A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrenheitCelsius", "FahrenheitCelsius.csproj", "{A14DBF6B-7551-41E9-A2E1-C2BDD7708765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{560B39F9-19FE-4DAD-8208-0010BE5E2A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14DBF6B-7551-41E9-A2E1-C2BDD7708765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14DBF6B-7551-41E9-A2E1-C2BDD7708765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14DBF6B-7551-41E9-A2E1-C2BDD7708765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14DBF6B-7551-41E9-A2E1-C2BDD7708765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27A486E0-80B4-4682-91F6-CBDC2A52FBFF}
+		SolutionGuid = {5D47DC27-A20C-455D-B591-F039DD8AEFBB}
 	EndGlobalSection
 EndGlobal
